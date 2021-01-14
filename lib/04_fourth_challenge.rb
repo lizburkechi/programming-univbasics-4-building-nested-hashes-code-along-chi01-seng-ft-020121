@@ -29,8 +29,8 @@ def fourth_challenge
         attitude: "confused"
       },
       {
-        name: "Nurse"
-        age: "30"
+        name: "Nurse",
+        age: "30",
         attitude: "worried"
       ]
    }
