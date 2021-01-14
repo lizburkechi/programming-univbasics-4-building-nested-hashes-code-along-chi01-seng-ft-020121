@@ -32,8 +32,8 @@ def fourth_challenge
         name: "Nurse",
         age: "30",
         attitude: "worried"
-      ]
    }
+ ]
 }
 
 end
